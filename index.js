@@ -36,7 +36,7 @@ function makeSound(key){
             audio.play();
             break;
         case "j":
-            var audio=new Audio('./sounds/snare.wa');
+            var audio=new Audio('./sounds/snare.wav');
             audio.play();
             break;
         case "k":
